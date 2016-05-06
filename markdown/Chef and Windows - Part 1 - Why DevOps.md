@@ -45,10 +45,6 @@ It covers end to end scenarions starting from creating a Chef workstation, to cr
 [Chef and Windows - Part 7 - Chef install SQL server 2014](markdown/Chef and Windows - Part 7 - Chef install SQL server 2014.md)
 
 [Chef and Windows - Part 8 - Chef install SharePoint 2016](markdown/Chef and Windows - Part 8 - Chef install SharePoint 2016.md)
-<<<<<<< HEAD
-=======
-
->>>>>>> d8cfd9b6212857d0e7214413411eeb2e2054ef87
 
 ---
 >Source code
